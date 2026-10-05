@@ -1,0 +1,23 @@
+{
+  "run_id": "run_74e5bd09b0",
+  "seed": 740917,
+  "state": "AWAITING_APPROVAL",
+  "business": "Aura Salon & Spa",
+  "vertical": "Hair Salon",
+  "city": "Mumbai",
+  "layout": "ReelA-Split",
+  "palette": "sunset_crimson",
+  "timings_seconds": {
+    "planner": 0.125,
+    "profile": 0.017,
+    "dialogue": 0.011,
+    "tts_and_mix": 11.827,
+    "alignment": 0.008,
+    "render": 62.086,
+    "qc_gates": 0.869,
+    "approval_dispatch": 0.009
+  },
+  "total_wall_clock_seconds": 74.95,
+  "video_path": "runs\\run_74e5bd09b0\\run_74e5bd09b0.mp4",
+  "cover_path": "runs\\run_74e5bd09b0\\run_74e5bd09b0_cover.jpg"
+}

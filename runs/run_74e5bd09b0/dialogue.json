@@ -1,0 +1,96 @@
+{
+  "hook_text": "Late night emergency call handled instantly",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good evening, after-hours dispatch line for Aura Salon & Spa.",
+      "emotion": "calm",
+      "pause_after_ms": 300,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "caller",
+      "text": "Greetings, my name is Tarun. We have an unexpected breakdown requiring Emergency Same-Day Priority Slot.",
+      "emotion": "anxious",
+      "pause_after_ms": 340,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Rest assured, we handle after-hours calls twenty-four-seven. Opening a priority ticket for our master stylist.",
+      "emotion": "reassuring",
+      "pause_after_ms": 300,
+      "on_screen_event": "Logged emergency ticket"
+    },
+    {
+      "speaker": "caller",
+      "text": "What is the fastest arrival window you can offer in our area?",
+      "emotion": "hopeful",
+      "pause_after_ms": 300,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "We have an expedited 8:30 AM window with our master stylist Kavita reserved for you.",
+      "emotion": "direct",
+      "pause_after_ms": 320,
+      "on_screen_event": "Assigned priority chair"
+    },
+    {
+      "speaker": "caller",
+      "text": "Will the technician call me when they are on the road?",
+      "emotion": "curious",
+      "pause_after_ms": 280,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "I have captured your phone number and address. Stand by for an immediate SMS tracker.",
+      "emotion": "helpful",
+      "pause_after_ms": 350,
+      "on_screen_event": "Alerted on-call team"
+    },
+    {
+      "speaker": "caller",
+      "text": "Phew, what a relief. Thanks for answering so late!",
+      "emotion": "grateful",
+      "pause_after_ms": 200,
+      "on_screen_event": null
+    }
+  ],
+  "events": [
+    {
+      "turn_index": 2,
+      "time_seconds": 0.0,
+      "type": "tool_call",
+      "text": "Opened emergency priority ticket"
+    },
+    {
+      "turn_index": 4,
+      "time_seconds": 0.0,
+      "type": "booking_card",
+      "text": "Assigned priority morning slot"
+    },
+    {
+      "turn_index": 6,
+      "time_seconds": 0.0,
+      "type": "owner_notification",
+      "text": "Pushed emergency alert to Kavita"
+    }
+  ],
+  "owner_notification": {
+    "summary": "URGENT: Tarun booked emergency dispatch for Emergency Same-Day Priority Slot.",
+    "customer_name": "Tarun",
+    "time_or_slot": "Tomorrow Morning",
+    "service_requested": "Emergency Same-Day Priority Slot",
+    "next_step": "Prep the styling station."
+  },
+  "cta_text": "Get an AI receptionist for your business at vocalis.ai",
+  "caption_seed": "Watch how Aura Salon & Spa handles client calls effortlessly with AI.",
+  "hashtags_seed": [
+    "#AIReceptionist",
+    "#HairSalon",
+    "#Mumbai",
+    "#SmallBusinessAutomation"
+  ]
+}

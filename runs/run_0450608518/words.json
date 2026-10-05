@@ -1,0 +1,686 @@
+[
+  {
+    "word": "Hello!",
+    "start": 0.1,
+    "end": 0.378,
+    "speaker": "agent"
+  },
+  {
+    "word": "Front",
+    "start": 0.378,
+    "end": 0.609,
+    "speaker": "agent"
+  },
+  {
+    "word": "desk",
+    "start": 0.609,
+    "end": 0.794,
+    "speaker": "agent"
+  },
+  {
+    "word": "at",
+    "start": 0.794,
+    "end": 0.914,
+    "speaker": "agent"
+  },
+  {
+    "word": "Vanguard",
+    "start": 0.914,
+    "end": 1.284,
+    "speaker": "agent"
+  },
+  {
+    "word": "Scholars",
+    "start": 1.284,
+    "end": 1.654,
+    "speaker": "agent"
+  },
+  {
+    "word": "Desk.",
+    "start": 1.654,
+    "end": 1.885,
+    "speaker": "agent"
+  },
+  {
+    "word": "Which",
+    "start": 1.885,
+    "end": 2.117,
+    "speaker": "agent"
+  },
+  {
+    "word": "package",
+    "start": 2.117,
+    "end": 2.44,
+    "speaker": "agent"
+  },
+  {
+    "word": "can",
+    "start": 2.44,
+    "end": 2.579,
+    "speaker": "agent"
+  },
+  {
+    "word": "our",
+    "start": 2.579,
+    "end": 2.718,
+    "speaker": "agent"
+  },
+  {
+    "word": "academic",
+    "start": 2.718,
+    "end": 3.088,
+    "speaker": "agent"
+  },
+  {
+    "word": "mentor",
+    "start": 3.088,
+    "end": 3.366,
+    "speaker": "agent"
+  },
+  {
+    "word": "explain",
+    "start": 3.366,
+    "end": 3.689,
+    "speaker": "agent"
+  },
+  {
+    "word": "for",
+    "start": 3.689,
+    "end": 3.828,
+    "speaker": "agent"
+  },
+  {
+    "word": "you",
+    "start": 3.828,
+    "end": 3.967,
+    "speaker": "agent"
+  },
+  {
+    "word": "today?",
+    "start": 3.967,
+    "end": 4.217,
+    "speaker": "agent"
+  },
+  {
+    "word": "Good",
+    "start": 4.337,
+    "end": 4.513,
+    "speaker": "caller"
+  },
+  {
+    "word": "day!",
+    "start": 4.513,
+    "end": 4.689,
+    "speaker": "caller"
+  },
+  {
+    "word": "I",
+    "start": 4.689,
+    "end": 4.809,
+    "speaker": "caller"
+  },
+  {
+    "word": "am",
+    "start": 4.809,
+    "end": 4.929,
+    "speaker": "caller"
+  },
+  {
+    "word": "shopping",
+    "start": 4.929,
+    "end": 5.281,
+    "speaker": "caller"
+  },
+  {
+    "word": "around",
+    "start": 5.281,
+    "end": 5.544,
+    "speaker": "caller"
+  },
+  {
+    "word": "and",
+    "start": 5.544,
+    "end": 5.676,
+    "speaker": "caller"
+  },
+  {
+    "word": "would",
+    "start": 5.676,
+    "end": 5.896,
+    "speaker": "caller"
+  },
+  {
+    "word": "love",
+    "start": 5.896,
+    "end": 6.072,
+    "speaker": "caller"
+  },
+  {
+    "word": "to",
+    "start": 6.072,
+    "end": 6.192,
+    "speaker": "caller"
+  },
+  {
+    "word": "know",
+    "start": 6.192,
+    "end": 6.368,
+    "speaker": "caller"
+  },
+  {
+    "word": "the",
+    "start": 6.368,
+    "end": 6.5,
+    "speaker": "caller"
+  },
+  {
+    "word": "cost",
+    "start": 6.5,
+    "end": 6.676,
+    "speaker": "caller"
+  },
+  {
+    "word": "of",
+    "start": 6.676,
+    "end": 6.796,
+    "speaker": "caller"
+  },
+  {
+    "word": "Express",
+    "start": 6.796,
+    "end": 7.104,
+    "speaker": "caller"
+  },
+  {
+    "word": "Quick",
+    "start": 7.104,
+    "end": 7.324,
+    "speaker": "caller"
+  },
+  {
+    "word": "Check",
+    "start": 7.324,
+    "end": 7.543,
+    "speaker": "caller"
+  },
+  {
+    "word": "&",
+    "start": 7.543,
+    "end": 7.663,
+    "speaker": "caller"
+  },
+  {
+    "word": "Maintenance.",
+    "start": 7.663,
+    "end": 7.943,
+    "speaker": "caller"
+  },
+  {
+    "word": "For",
+    "start": 8.063,
+    "end": 8.209,
+    "speaker": "agent"
+  },
+  {
+    "word": "Express",
+    "start": 8.209,
+    "end": 8.549,
+    "speaker": "agent"
+  },
+  {
+    "word": "Quick",
+    "start": 8.549,
+    "end": 8.791,
+    "speaker": "agent"
+  },
+  {
+    "word": "Check",
+    "start": 8.791,
+    "end": 9.034,
+    "speaker": "agent"
+  },
+  {
+    "word": "&",
+    "start": 9.034,
+    "end": 9.154,
+    "speaker": "agent"
+  },
+  {
+    "word": "Maintenance,",
+    "start": 9.154,
+    "end": 9.737,
+    "speaker": "agent"
+  },
+  {
+    "word": "our",
+    "start": 9.737,
+    "end": 9.883,
+    "speaker": "agent"
+  },
+  {
+    "word": "published",
+    "start": 9.883,
+    "end": 10.32,
+    "speaker": "agent"
+  },
+  {
+    "word": "fee",
+    "start": 10.32,
+    "end": 10.466,
+    "speaker": "agent"
+  },
+  {
+    "word": "is",
+    "start": 10.466,
+    "end": 10.585,
+    "speaker": "agent"
+  },
+  {
+    "word": "\u20b9800,",
+    "start": 10.585,
+    "end": 10.828,
+    "speaker": "agent"
+  },
+  {
+    "word": "inclusive",
+    "start": 10.828,
+    "end": 11.265,
+    "speaker": "agent"
+  },
+  {
+    "word": "of",
+    "start": 11.265,
+    "end": 11.385,
+    "speaker": "agent"
+  },
+  {
+    "word": "all",
+    "start": 11.385,
+    "end": 11.531,
+    "speaker": "agent"
+  },
+  {
+    "word": "standard",
+    "start": 11.531,
+    "end": 11.92,
+    "speaker": "agent"
+  },
+  {
+    "word": "labor",
+    "start": 11.92,
+    "end": 12.162,
+    "speaker": "agent"
+  },
+  {
+    "word": "and",
+    "start": 12.162,
+    "end": 12.308,
+    "speaker": "agent"
+  },
+  {
+    "word": "desk",
+    "start": 12.308,
+    "end": 12.502,
+    "speaker": "agent"
+  },
+  {
+    "word": "prep.",
+    "start": 12.502,
+    "end": 12.628,
+    "speaker": "agent"
+  },
+  {
+    "word": "Does",
+    "start": 12.748,
+    "end": 12.939,
+    "speaker": "caller"
+  },
+  {
+    "word": "that",
+    "start": 12.939,
+    "end": 13.13,
+    "speaker": "caller"
+  },
+  {
+    "word": "price",
+    "start": 13.13,
+    "end": 13.369,
+    "speaker": "caller"
+  },
+  {
+    "word": "include",
+    "start": 13.369,
+    "end": 13.704,
+    "speaker": "caller"
+  },
+  {
+    "word": "taxes",
+    "start": 13.704,
+    "end": 13.942,
+    "speaker": "caller"
+  },
+  {
+    "word": "and",
+    "start": 13.942,
+    "end": 14.086,
+    "speaker": "caller"
+  },
+  {
+    "word": "preliminary",
+    "start": 14.086,
+    "end": 14.611,
+    "speaker": "caller"
+  },
+  {
+    "word": "evaluation?",
+    "start": 14.611,
+    "end": 15.137,
+    "speaker": "caller"
+  },
+  {
+    "word": "No",
+    "start": 15.257,
+    "end": 15.377,
+    "speaker": "agent"
+  },
+  {
+    "word": "hidden",
+    "start": 15.377,
+    "end": 15.666,
+    "speaker": "agent"
+  },
+  {
+    "word": "fees",
+    "start": 15.666,
+    "end": 15.858,
+    "speaker": "agent"
+  },
+  {
+    "word": "at",
+    "start": 15.858,
+    "end": 15.978,
+    "speaker": "agent"
+  },
+  {
+    "word": "all.",
+    "start": 15.978,
+    "end": 16.17,
+    "speaker": "agent"
+  },
+  {
+    "word": "Our",
+    "start": 16.17,
+    "end": 16.314,
+    "speaker": "agent"
+  },
+  {
+    "word": "pricing",
+    "start": 16.314,
+    "end": 16.651,
+    "speaker": "agent"
+  },
+  {
+    "word": "is",
+    "start": 16.651,
+    "end": 16.771,
+    "speaker": "agent"
+  },
+  {
+    "word": "completely",
+    "start": 16.771,
+    "end": 17.252,
+    "speaker": "agent"
+  },
+  {
+    "word": "transparent.",
+    "start": 17.252,
+    "end": 17.829,
+    "speaker": "agent"
+  },
+  {
+    "word": "Tutoring",
+    "start": 17.829,
+    "end": 18.214,
+    "speaker": "agent"
+  },
+  {
+    "word": "study",
+    "start": 18.214,
+    "end": 18.454,
+    "speaker": "agent"
+  },
+  {
+    "word": "desk",
+    "start": 18.454,
+    "end": 18.646,
+    "speaker": "agent"
+  },
+  {
+    "word": "and",
+    "start": 18.646,
+    "end": 18.791,
+    "speaker": "agent"
+  },
+  {
+    "word": "diagnostic",
+    "start": 18.791,
+    "end": 19.271,
+    "speaker": "agent"
+  },
+  {
+    "word": "curriculum",
+    "start": 19.271,
+    "end": 19.752,
+    "speaker": "agent"
+  },
+  {
+    "word": "prepped",
+    "start": 19.752,
+    "end": 20.089,
+    "speaker": "agent"
+  },
+  {
+    "word": "on",
+    "start": 20.089,
+    "end": 20.209,
+    "speaker": "agent"
+  },
+  {
+    "word": "Friday",
+    "start": 20.209,
+    "end": 20.497,
+    "speaker": "agent"
+  },
+  {
+    "word": "at",
+    "start": 20.497,
+    "end": 20.617,
+    "speaker": "agent"
+  },
+  {
+    "word": "10:30",
+    "start": 20.617,
+    "end": 20.858,
+    "speaker": "agent"
+  },
+  {
+    "word": "AM",
+    "start": 20.858,
+    "end": 20.978,
+    "speaker": "agent"
+  },
+  {
+    "word": "with",
+    "start": 20.978,
+    "end": 21.17,
+    "speaker": "agent"
+  },
+  {
+    "word": "Siddharth?",
+    "start": 21.17,
+    "end": 21.508,
+    "speaker": "agent"
+  },
+  {
+    "word": "Lock",
+    "start": 21.628,
+    "end": 21.809,
+    "speaker": "caller"
+  },
+  {
+    "word": "that",
+    "start": 21.809,
+    "end": 21.99,
+    "speaker": "caller"
+  },
+  {
+    "word": "in",
+    "start": 21.99,
+    "end": 22.11,
+    "speaker": "caller"
+  },
+  {
+    "word": "for",
+    "start": 22.11,
+    "end": 22.246,
+    "speaker": "caller"
+  },
+  {
+    "word": "me",
+    "start": 22.246,
+    "end": 22.366,
+    "speaker": "caller"
+  },
+  {
+    "word": "please,",
+    "start": 22.366,
+    "end": 22.682,
+    "speaker": "caller"
+  },
+  {
+    "word": "under",
+    "start": 22.682,
+    "end": 22.909,
+    "speaker": "caller"
+  },
+  {
+    "word": "Sarah.",
+    "start": 22.909,
+    "end": 23.121,
+    "speaker": "caller"
+  },
+  {
+    "word": "Consider",
+    "start": 23.241,
+    "end": 23.605,
+    "speaker": "agent"
+  },
+  {
+    "word": "it",
+    "start": 23.605,
+    "end": 23.725,
+    "speaker": "agent"
+  },
+  {
+    "word": "done!",
+    "start": 23.725,
+    "end": 23.952,
+    "speaker": "agent"
+  },
+  {
+    "word": "Your",
+    "start": 23.952,
+    "end": 24.134,
+    "speaker": "agent"
+  },
+  {
+    "word": "price",
+    "start": 24.134,
+    "end": 24.361,
+    "speaker": "agent"
+  },
+  {
+    "word": "quote",
+    "start": 24.361,
+    "end": 24.588,
+    "speaker": "agent"
+  },
+  {
+    "word": "and",
+    "start": 24.588,
+    "end": 24.724,
+    "speaker": "agent"
+  },
+  {
+    "word": "reservation",
+    "start": 24.724,
+    "end": 25.224,
+    "speaker": "agent"
+  },
+  {
+    "word": "details",
+    "start": 25.224,
+    "end": 25.543,
+    "speaker": "agent"
+  },
+  {
+    "word": "have",
+    "start": 25.543,
+    "end": 25.724,
+    "speaker": "agent"
+  },
+  {
+    "word": "been",
+    "start": 25.724,
+    "end": 25.906,
+    "speaker": "agent"
+  },
+  {
+    "word": "texted",
+    "start": 25.906,
+    "end": 26.179,
+    "speaker": "agent"
+  },
+  {
+    "word": "over.",
+    "start": 26.179,
+    "end": 26.377,
+    "speaker": "agent"
+  },
+  {
+    "word": "Smooth",
+    "start": 26.497,
+    "end": 26.781,
+    "speaker": "caller"
+  },
+  {
+    "word": "and",
+    "start": 26.781,
+    "end": 26.923,
+    "speaker": "caller"
+  },
+  {
+    "word": "honest",
+    "start": 26.923,
+    "end": 27.207,
+    "speaker": "caller"
+  },
+  {
+    "word": "pricing.",
+    "start": 27.207,
+    "end": 27.586,
+    "speaker": "caller"
+  },
+  {
+    "word": "Thank",
+    "start": 27.586,
+    "end": 27.823,
+    "speaker": "caller"
+  },
+  {
+    "word": "you!",
+    "start": 27.823,
+    "end": 28.012,
+    "speaker": "caller"
+  }
+]

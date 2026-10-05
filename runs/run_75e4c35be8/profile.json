@@ -1,0 +1,94 @@
+{
+  "name": "Aura Artisan Bakery",
+  "tagline": "Premier bakery & patisserie services in Singapore.",
+  "vertical": "Bakery & Patisserie",
+  "city": "Singapore",
+  "neighborhood": "West End",
+  "owner_first_name": "Aditya",
+  "hours": {
+    "weekdays": "09:00 AM - 07:00 PM",
+    "saturday": "10:00 AM - 05:00 PM",
+    "sunday": "Closed"
+  },
+  "services": [
+    {
+      "name": "Standard Consultation / Initial Session",
+      "price": "S$1200",
+      "duration_mins": 45,
+      "description": "Professional standard consultation / initial session conducted by certified staff at Aura Artisan Bakery."
+    },
+    {
+      "name": "Comprehensive Full Service Package",
+      "price": "S$2800",
+      "duration_mins": 90,
+      "description": "Professional comprehensive full service package conducted by certified staff at Aura Artisan Bakery."
+    },
+    {
+      "name": "Express Quick Check & Maintenance",
+      "price": "S$800",
+      "duration_mins": 30,
+      "description": "Professional express quick check & maintenance conducted by certified staff at Aura Artisan Bakery."
+    },
+    {
+      "name": "Premium Care Deluxe Treatment",
+      "price": "S$2200",
+      "duration_mins": 60,
+      "description": "Professional premium care deluxe treatment conducted by certified staff at Aura Artisan Bakery."
+    },
+    {
+      "name": "Diagnostic & Assessment Walkthrough",
+      "price": "S$1500",
+      "duration_mins": 40,
+      "description": "Professional diagnostic & assessment walkthrough conducted by certified staff at Aura Artisan Bakery."
+    },
+    {
+      "name": "Emergency Same-Day Priority Slot",
+      "price": "S$3000",
+      "duration_mins": 45,
+      "description": "Professional emergency same-day priority slot conducted by certified staff at Aura Artisan Bakery."
+    },
+    {
+      "name": "Follow-Up Review & Adjustment",
+      "price": "S$950",
+      "duration_mins": 30,
+      "description": "Professional follow-up review & adjustment conducted by certified staff at Aura Artisan Bakery."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you have parking available on site?",
+      "answer": "Yes, we have 4 designated customer parking bays behind the building."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "Cancellations made at least 24 hours in advance receive a full refund or free reschedule."
+    },
+    {
+      "question": "Which payment methods do you accept?",
+      "answer": "We accept all major credit/debit cards, UPI, Apple Pay, and direct bank transfers."
+    },
+    {
+      "question": "Do you accommodate walk-in clients?",
+      "answer": "We prioritize advance appointments, though walk-ins are accommodated if slots open up."
+    },
+    {
+      "question": "How will I receive confirmation of my appointment?",
+      "answer": "You receive an instant confirmation text message and calendar invite with full directions."
+    }
+  ],
+  "staff_names": [
+    "Aditya",
+    "Maya",
+    "Karan",
+    "David"
+  ],
+  "booking_rules": {
+    "slot_length_mins": 45,
+    "buffer_mins": 15,
+    "cancellation_notice_hours": 24,
+    "closed_days": [
+      "Sunday"
+    ]
+  },
+  "tone_of_voice": "Warm, polished, articulate and community-oriented"
+}

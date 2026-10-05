@@ -1,0 +1,19 @@
+{
+  "passed": false,
+  "hard_failures": [
+    "Detected frozen frame sequence exceeding 2.0s threshold."
+  ],
+  "soft_warnings": [
+    "Fast pacing: speech rate is 226 WPM (> 210 WPM)."
+  ],
+  "metrics": {
+    "duration_seconds": 30.016,
+    "resolution": "1080x1920",
+    "fps": 30.0,
+    "codec": "h264",
+    "loudness_lufs": -14.328222961334319,
+    "true_peak_dbtp": -1.5997562879979388,
+    "asr_wer": 0.0,
+    "words_per_minute": 225.9
+  }
+}

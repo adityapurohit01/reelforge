@@ -1,0 +1,96 @@
+{
+  "hook_text": "How AI handles rate inquiries at Vanguard Scholars Desk",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hello! Front desk at Vanguard Scholars Desk. Which package can our academic mentor explain for you today?",
+      "emotion": "polite",
+      "pause_after_ms": 300,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "caller",
+      "text": "Good day! I am shopping around and would love to know the cost of Express Quick Check & Maintenance.",
+      "emotion": "curious",
+      "pause_after_ms": 320,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "For Express Quick Check & Maintenance, our published fee is ₹800, inclusive of all standard labor and desk prep.",
+      "emotion": "clear",
+      "pause_after_ms": 300,
+      "on_screen_event": "Quoted verified rate: ₹800"
+    },
+    {
+      "speaker": "caller",
+      "text": "Does that price include taxes and preliminary evaluation?",
+      "emotion": "inquisitive",
+      "pause_after_ms": 280,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "No hidden fees at all. Our pricing is completely transparent. Tutoring study desk and diagnostic curriculum prepped on Friday at 10:30 AM with Siddharth?",
+      "emotion": "confident",
+      "pause_after_ms": 320,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "caller",
+      "text": "Lock that in for me please, under Sarah.",
+      "emotion": "positive",
+      "pause_after_ms": 280,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Consider it done! Your price quote and reservation details have been texted over.",
+      "emotion": "cheerful",
+      "pause_after_ms": 320,
+      "on_screen_event": "Logged quote and finalized booking"
+    },
+    {
+      "speaker": "caller",
+      "text": "Smooth and honest pricing. Thank you!",
+      "emotion": "satisfied",
+      "pause_after_ms": 200,
+      "on_screen_event": null
+    }
+  ],
+  "events": [
+    {
+      "turn_index": 2,
+      "time_seconds": 0.0,
+      "type": "tool_call",
+      "text": "Verified catalog price: ₹800"
+    },
+    {
+      "turn_index": 4,
+      "time_seconds": 0.0,
+      "type": "booking_card",
+      "text": "Slot locked: Friday at 10:30 AM"
+    },
+    {
+      "turn_index": 6,
+      "time_seconds": 0.0,
+      "type": "tool_call",
+      "text": "Dispatched price guarantee & confirmation"
+    }
+  ],
+  "owner_notification": {
+    "summary": "Price inquiry converted: Sarah booked Express Quick Check & Maintenance at ₹800.",
+    "customer_name": "Sarah",
+    "time_or_slot": "Friday at 10:30 AM",
+    "service_requested": "Express Quick Check & Maintenance",
+    "next_step": "Confirmed transparent quote."
+  },
+  "cta_text": "Get an AI receptionist for your business at vocalis.ai",
+  "caption_seed": "Watch how Vanguard Scholars Desk handles client calls effortlessly with AI.",
+  "hashtags_seed": [
+    "#AIReceptionist",
+    "#Tutoring&CoachingCenter",
+    "#DelhiNCR",
+    "#SmallBusinessAutomation"
+  ]
+}

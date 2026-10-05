@@ -1,0 +1,20 @@
+[
+  {
+    "turn_index": 2,
+    "time_seconds": 7.48,
+    "type": "tool_call",
+    "text": "Checked order schedule"
+  },
+  {
+    "turn_index": 4,
+    "time_seconds": 13.67,
+    "type": "booking_card",
+    "text": "Slot locked: Tomorrow at 11:00 AM"
+  },
+  {
+    "turn_index": 6,
+    "time_seconds": 18.14,
+    "type": "tool_call",
+    "text": "Dispatched SMS confirmation"
+  }
+]

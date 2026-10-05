@@ -1,0 +1,17 @@
+{
+  "passed": false,
+  "hard_failures": [
+    "Detected frozen frame sequence exceeding 3.0s threshold."
+  ],
+  "soft_warnings": [],
+  "metrics": {
+    "duration_seconds": 30.016,
+    "resolution": "1080x1920",
+    "fps": 30.0,
+    "codec": "h264",
+    "loudness_lufs": -14.547935717604627,
+    "true_peak_dbtp": -1.5997562879979388,
+    "asr_wer": 0.0,
+    "words_per_minute": 197.9
+  }
+}

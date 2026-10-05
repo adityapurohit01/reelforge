@@ -41,7 +41,6 @@ assets/kokoro/voices-v1.0.bin
 .coverage
 htmlcov/
 
-# Local runs output artifacts
-runs/
-*.mp4
-*.wav
+# Temporary Remotion audio cache
+render/public/audio/*.wav
+

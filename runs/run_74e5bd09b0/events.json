@@ -1,0 +1,20 @@
+[
+  {
+    "turn_index": 2,
+    "time_seconds": 9.25,
+    "type": "tool_call",
+    "text": "Opened emergency priority ticket"
+  },
+  {
+    "turn_index": 4,
+    "time_seconds": 17.68,
+    "type": "booking_card",
+    "text": "Assigned priority morning slot"
+  },
+  {
+    "turn_index": 6,
+    "time_seconds": 24.66,
+    "type": "owner_notification",
+    "text": "Pushed emergency alert to Kavita"
+  }
+]

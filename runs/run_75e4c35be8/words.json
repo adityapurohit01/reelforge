@@ -1,0 +1,584 @@
+[
+  {
+    "word": "Welcome",
+    "start": 0.1,
+    "end": 0.412,
+    "speaker": "agent"
+  },
+  {
+    "word": "to",
+    "start": 0.412,
+    "end": 0.532,
+    "speaker": "agent"
+  },
+  {
+    "word": "Aura",
+    "start": 0.532,
+    "end": 0.711,
+    "speaker": "agent"
+  },
+  {
+    "word": "Artisan",
+    "start": 0.711,
+    "end": 1.023,
+    "speaker": "agent"
+  },
+  {
+    "word": "Bakery.",
+    "start": 1.023,
+    "end": 1.335,
+    "speaker": "agent"
+  },
+  {
+    "word": "Looking",
+    "start": 1.335,
+    "end": 1.647,
+    "speaker": "agent"
+  },
+  {
+    "word": "to",
+    "start": 1.647,
+    "end": 1.767,
+    "speaker": "agent"
+  },
+  {
+    "word": "schedule",
+    "start": 1.767,
+    "end": 2.124,
+    "speaker": "agent"
+  },
+  {
+    "word": "custom",
+    "start": 2.124,
+    "end": 2.392,
+    "speaker": "agent"
+  },
+  {
+    "word": "pastry",
+    "start": 2.392,
+    "end": 2.66,
+    "speaker": "agent"
+  },
+  {
+    "word": "pre-order?",
+    "start": 2.66,
+    "end": 3.044,
+    "speaker": "agent"
+  },
+  {
+    "word": "Hi",
+    "start": 3.164,
+    "end": 3.284,
+    "speaker": "caller"
+  },
+  {
+    "word": "there!",
+    "start": 3.284,
+    "end": 3.549,
+    "speaker": "caller"
+  },
+  {
+    "word": "My",
+    "start": 3.549,
+    "end": 3.669,
+    "speaker": "caller"
+  },
+  {
+    "word": "name",
+    "start": 3.669,
+    "end": 3.846,
+    "speaker": "caller"
+  },
+  {
+    "word": "is",
+    "start": 3.846,
+    "end": 3.966,
+    "speaker": "caller"
+  },
+  {
+    "word": "Tarun",
+    "start": 3.966,
+    "end": 4.186,
+    "speaker": "caller"
+  },
+  {
+    "word": "and",
+    "start": 4.186,
+    "end": 4.319,
+    "speaker": "caller"
+  },
+  {
+    "word": "I",
+    "start": 4.319,
+    "end": 4.439,
+    "speaker": "caller"
+  },
+  {
+    "word": "would",
+    "start": 4.439,
+    "end": 4.659,
+    "speaker": "caller"
+  },
+  {
+    "word": "love",
+    "start": 4.659,
+    "end": 4.836,
+    "speaker": "caller"
+  },
+  {
+    "word": "to",
+    "start": 4.836,
+    "end": 4.956,
+    "speaker": "caller"
+  },
+  {
+    "word": "arrange",
+    "start": 4.956,
+    "end": 5.265,
+    "speaker": "caller"
+  },
+  {
+    "word": "an",
+    "start": 5.265,
+    "end": 5.385,
+    "speaker": "caller"
+  },
+  {
+    "word": "appointment",
+    "start": 5.385,
+    "end": 5.871,
+    "speaker": "caller"
+  },
+  {
+    "word": "for",
+    "start": 5.871,
+    "end": 6.003,
+    "speaker": "caller"
+  },
+  {
+    "word": "Follow-Up",
+    "start": 6.003,
+    "end": 6.401,
+    "speaker": "caller"
+  },
+  {
+    "word": "Review",
+    "start": 6.401,
+    "end": 6.666,
+    "speaker": "caller"
+  },
+  {
+    "word": "&",
+    "start": 6.666,
+    "end": 6.786,
+    "speaker": "caller"
+  },
+  {
+    "word": "Adjustment.",
+    "start": 6.786,
+    "end": 6.961,
+    "speaker": "caller"
+  },
+  {
+    "word": "It",
+    "start": 7.081,
+    "end": 7.202,
+    "speaker": "agent"
+  },
+  {
+    "word": "is",
+    "start": 7.202,
+    "end": 7.323,
+    "speaker": "agent"
+  },
+  {
+    "word": "a",
+    "start": 7.323,
+    "end": 7.443,
+    "speaker": "agent"
+  },
+  {
+    "word": "pleasure,",
+    "start": 7.443,
+    "end": 7.987,
+    "speaker": "agent"
+  },
+  {
+    "word": "Tarun.",
+    "start": 7.987,
+    "end": 8.35,
+    "speaker": "agent"
+  },
+  {
+    "word": "We",
+    "start": 8.35,
+    "end": 8.471,
+    "speaker": "agent"
+  },
+  {
+    "word": "have",
+    "start": 8.471,
+    "end": 8.712,
+    "speaker": "agent"
+  },
+  {
+    "word": "an",
+    "start": 8.712,
+    "end": 8.833,
+    "speaker": "agent"
+  },
+  {
+    "word": "open",
+    "start": 8.833,
+    "end": 9.075,
+    "speaker": "agent"
+  },
+  {
+    "word": "slot",
+    "start": 9.075,
+    "end": 9.317,
+    "speaker": "agent"
+  },
+  {
+    "word": "with",
+    "start": 9.317,
+    "end": 9.559,
+    "speaker": "agent"
+  },
+  {
+    "word": "Aditya",
+    "start": 9.559,
+    "end": 9.921,
+    "speaker": "agent"
+  },
+  {
+    "word": "on",
+    "start": 9.921,
+    "end": 10.042,
+    "speaker": "agent"
+  },
+  {
+    "word": "Tomorrow",
+    "start": 10.042,
+    "end": 10.526,
+    "speaker": "agent"
+  },
+  {
+    "word": "at",
+    "start": 10.526,
+    "end": 10.647,
+    "speaker": "agent"
+  },
+  {
+    "word": "11:00",
+    "start": 10.647,
+    "end": 10.949,
+    "speaker": "agent"
+  },
+  {
+    "word": "AM.",
+    "start": 10.949,
+    "end": 11.071,
+    "speaker": "agent"
+  },
+  {
+    "word": "That",
+    "start": 11.191,
+    "end": 11.365,
+    "speaker": "caller"
+  },
+  {
+    "word": "timing",
+    "start": 11.365,
+    "end": 11.627,
+    "speaker": "caller"
+  },
+  {
+    "word": "is",
+    "start": 11.627,
+    "end": 11.747,
+    "speaker": "caller"
+  },
+  {
+    "word": "great.",
+    "start": 11.747,
+    "end": 12.009,
+    "speaker": "caller"
+  },
+  {
+    "word": "Can",
+    "start": 12.009,
+    "end": 12.139,
+    "speaker": "caller"
+  },
+  {
+    "word": "you",
+    "start": 12.139,
+    "end": 12.27,
+    "speaker": "caller"
+  },
+  {
+    "word": "confirm",
+    "start": 12.27,
+    "end": 12.575,
+    "speaker": "caller"
+  },
+  {
+    "word": "the",
+    "start": 12.575,
+    "end": 12.706,
+    "speaker": "caller"
+  },
+  {
+    "word": "service",
+    "start": 12.706,
+    "end": 13.011,
+    "speaker": "caller"
+  },
+  {
+    "word": "fee?",
+    "start": 13.011,
+    "end": 13.153,
+    "speaker": "caller"
+  },
+  {
+    "word": "Yes,",
+    "start": 13.273,
+    "end": 13.456,
+    "speaker": "agent"
+  },
+  {
+    "word": "we",
+    "start": 13.456,
+    "end": 13.576,
+    "speaker": "agent"
+  },
+  {
+    "word": "pack",
+    "start": 13.576,
+    "end": 13.759,
+    "speaker": "agent"
+  },
+  {
+    "word": "everything",
+    "start": 13.759,
+    "end": 14.217,
+    "speaker": "agent"
+  },
+  {
+    "word": "in",
+    "start": 14.217,
+    "end": 14.337,
+    "speaker": "agent"
+  },
+  {
+    "word": "secure",
+    "start": 14.337,
+    "end": 14.612,
+    "speaker": "agent"
+  },
+  {
+    "word": "bakery",
+    "start": 14.612,
+    "end": 14.886,
+    "speaker": "agent"
+  },
+  {
+    "word": "boxes",
+    "start": 14.886,
+    "end": 15.115,
+    "speaker": "agent"
+  },
+  {
+    "word": "ready",
+    "start": 15.115,
+    "end": 15.344,
+    "speaker": "agent"
+  },
+  {
+    "word": "for",
+    "start": 15.344,
+    "end": 15.481,
+    "speaker": "agent"
+  },
+  {
+    "word": "curbside",
+    "start": 15.481,
+    "end": 15.847,
+    "speaker": "agent"
+  },
+  {
+    "word": "pickup.",
+    "start": 15.847,
+    "end": 16.111,
+    "speaker": "agent"
+  },
+  {
+    "word": "Please",
+    "start": 16.231,
+    "end": 16.564,
+    "speaker": "caller"
+  },
+  {
+    "word": "lock",
+    "start": 16.564,
+    "end": 16.785,
+    "speaker": "caller"
+  },
+  {
+    "word": "that",
+    "start": 16.785,
+    "end": 17.007,
+    "speaker": "caller"
+  },
+  {
+    "word": "in",
+    "start": 17.007,
+    "end": 17.127,
+    "speaker": "caller"
+  },
+  {
+    "word": "for",
+    "start": 17.127,
+    "end": 17.293,
+    "speaker": "caller"
+  },
+  {
+    "word": "Tarun.",
+    "start": 17.293,
+    "end": 17.617,
+    "speaker": "caller"
+  },
+  {
+    "word": "Your",
+    "start": 17.737,
+    "end": 17.902,
+    "speaker": "agent"
+  },
+  {
+    "word": "booking",
+    "start": 17.902,
+    "end": 18.191,
+    "speaker": "agent"
+  },
+  {
+    "word": "is",
+    "start": 18.191,
+    "end": 18.311,
+    "speaker": "agent"
+  },
+  {
+    "word": "confirmed!",
+    "start": 18.311,
+    "end": 18.724,
+    "speaker": "agent"
+  },
+  {
+    "word": "Bake",
+    "start": 18.724,
+    "end": 18.889,
+    "speaker": "agent"
+  },
+  {
+    "word": "batch",
+    "start": 18.889,
+    "end": 19.096,
+    "speaker": "agent"
+  },
+  {
+    "word": "queued",
+    "start": 19.096,
+    "end": 19.343,
+    "speaker": "agent"
+  },
+  {
+    "word": "and",
+    "start": 19.343,
+    "end": 19.467,
+    "speaker": "agent"
+  },
+  {
+    "word": "packaging",
+    "start": 19.467,
+    "end": 19.839,
+    "speaker": "agent"
+  },
+  {
+    "word": "prepped.",
+    "start": 19.839,
+    "end": 20.169,
+    "speaker": "agent"
+  },
+  {
+    "word": "Electronic",
+    "start": 20.169,
+    "end": 20.582,
+    "speaker": "agent"
+  },
+  {
+    "word": "pass",
+    "start": 20.582,
+    "end": 20.747,
+    "speaker": "agent"
+  },
+  {
+    "word": "sent.",
+    "start": 20.747,
+    "end": 20.916,
+    "speaker": "agent"
+  },
+  {
+    "word": "Brilliant.",
+    "start": 21.036,
+    "end": 21.452,
+    "speaker": "caller"
+  },
+  {
+    "word": "Thank",
+    "start": 21.452,
+    "end": 21.66,
+    "speaker": "caller"
+  },
+  {
+    "word": "you",
+    "start": 21.66,
+    "end": 21.785,
+    "speaker": "caller"
+  },
+  {
+    "word": "so",
+    "start": 21.785,
+    "end": 21.905,
+    "speaker": "caller"
+  },
+  {
+    "word": "much",
+    "start": 21.905,
+    "end": 22.071,
+    "speaker": "caller"
+  },
+  {
+    "word": "for",
+    "start": 22.071,
+    "end": 22.196,
+    "speaker": "caller"
+  },
+  {
+    "word": "the",
+    "start": 22.196,
+    "end": 22.321,
+    "speaker": "caller"
+  },
+  {
+    "word": "quick",
+    "start": 22.321,
+    "end": 22.529,
+    "speaker": "caller"
+  },
+  {
+    "word": "help!",
+    "start": 22.529,
+    "end": 22.7,
+    "speaker": "caller"
+  }
+]

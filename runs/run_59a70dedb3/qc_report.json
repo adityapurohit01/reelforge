@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "hard_failures": [],
+  "soft_warnings": [],
+  "metrics": {
+    "duration_seconds": 30.016,
+    "resolution": "1080x1920",
+    "fps": 30.0,
+    "codec": "h264",
+    "loudness_lufs": -14.282874178779275,
+    "true_peak_dbtp": -1.5997562879979388,
+    "asr_wer": 0.0,
+    "words_per_minute": 181.9
+  }
+}

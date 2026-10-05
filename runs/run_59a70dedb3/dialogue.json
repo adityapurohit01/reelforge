@@ -1,0 +1,96 @@
+{
+  "hook_text": "Hands full? Watch AI book this client call",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Welcome to Crown Real Estate Co. Looking to schedule property viewing walkthrough?",
+      "emotion": "cheerful",
+      "pause_after_ms": 300,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "caller",
+      "text": "Hi! Yes, I need Express Quick Check & Maintenance around friday.",
+      "emotion": "curious",
+      "pause_after_ms": 320,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "It is a pleasure, Meera. We have an open slot with Liam on Friday at 03:30 PM.",
+      "emotion": "helpful",
+      "pause_after_ms": 300,
+      "on_screen_event": "Reserved open viewing"
+    },
+    {
+      "speaker": "caller",
+      "text": "That works wonderfully with my commute. How long does the appointment take?",
+      "emotion": "cheerful",
+      "pause_after_ms": 280,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Our standard fee is ₹800 for complete service with Liam.",
+      "emotion": "clear",
+      "pause_after_ms": 320,
+      "on_screen_event": "Confirmed price: ₹800"
+    },
+    {
+      "speaker": "caller",
+      "text": "Please lock that in for Meera.",
+      "emotion": "decisive",
+      "pause_after_ms": 280,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Your booking is confirmed! Property tour scheduled with private viewing access. Electronic pass sent.",
+      "emotion": "warm",
+      "pause_after_ms": 340,
+      "on_screen_event": "Dispatched SMS confirmation"
+    },
+    {
+      "speaker": "caller",
+      "text": "Brilliant. Thank you so much for the quick help!",
+      "emotion": "satisfied",
+      "pause_after_ms": 200,
+      "on_screen_event": null
+    }
+  ],
+  "events": [
+    {
+      "turn_index": 2,
+      "time_seconds": 0.0,
+      "type": "tool_call",
+      "text": "Checked viewing schedule"
+    },
+    {
+      "turn_index": 4,
+      "time_seconds": 0.0,
+      "type": "booking_card",
+      "text": "Slot locked: Friday at 03:30 PM"
+    },
+    {
+      "turn_index": 6,
+      "time_seconds": 0.0,
+      "type": "tool_call",
+      "text": "Dispatched SMS confirmation"
+    }
+  ],
+  "owner_notification": {
+    "summary": "New booking: Express Quick Check & Maintenance reserved for Meera.",
+    "customer_name": "Meera",
+    "time_or_slot": "Friday at 03:30 PM",
+    "service_requested": "Express Quick Check & Maintenance",
+    "next_step": "Schedule the agent walkthrough."
+  },
+  "cta_text": "Get an AI receptionist for your business at vocalis.ai",
+  "caption_seed": "Watch how Crown Real Estate Co handles client calls effortlessly with AI.",
+  "hashtags_seed": [
+    "#AIReceptionist",
+    "#RealEstateAgency",
+    "#Chandigarh",
+    "#SmallBusinessAutomation"
+  ]
+}

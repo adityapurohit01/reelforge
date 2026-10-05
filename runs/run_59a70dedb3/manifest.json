@@ -1,0 +1,23 @@
+{
+  "run_id": "run_59a70dedb3",
+  "seed": 154932,
+  "state": "AWAITING_APPROVAL",
+  "business": "Crown Real Estate Co",
+  "vertical": "Real Estate Agency",
+  "city": "Chandigarh",
+  "layout": "ReelA-Split",
+  "palette": "royal_amethyst",
+  "timings_seconds": {
+    "planner": 0.009,
+    "profile": 0.015,
+    "dialogue": 0.01,
+    "tts_and_mix": 12.612,
+    "alignment": 0.006,
+    "render": 53.216,
+    "qc_gates": 0.821,
+    "approval_dispatch": 0.006
+  },
+  "total_wall_clock_seconds": 66.7,
+  "video_path": "runs\\run_59a70dedb3\\run_59a70dedb3.mp4",
+  "cover_path": "runs\\run_59a70dedb3\\run_59a70dedb3_cover.jpg"
+}

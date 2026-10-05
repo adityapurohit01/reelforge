@@ -1,0 +1,548 @@
+[
+  {
+    "word": "Welcome",
+    "start": 0.1,
+    "end": 0.598,
+    "speaker": "agent"
+  },
+  {
+    "word": "to",
+    "start": 0.598,
+    "end": 0.741,
+    "speaker": "agent"
+  },
+  {
+    "word": "Crown",
+    "start": 0.741,
+    "end": 1.097,
+    "speaker": "agent"
+  },
+  {
+    "word": "Real",
+    "start": 1.097,
+    "end": 1.382,
+    "speaker": "agent"
+  },
+  {
+    "word": "Estate",
+    "start": 1.382,
+    "end": 1.809,
+    "speaker": "agent"
+  },
+  {
+    "word": "Co.",
+    "start": 1.809,
+    "end": 2.023,
+    "speaker": "agent"
+  },
+  {
+    "word": "Looking",
+    "start": 2.023,
+    "end": 2.521,
+    "speaker": "agent"
+  },
+  {
+    "word": "to",
+    "start": 2.521,
+    "end": 2.664,
+    "speaker": "agent"
+  },
+  {
+    "word": "schedule",
+    "start": 2.664,
+    "end": 3.233,
+    "speaker": "agent"
+  },
+  {
+    "word": "property",
+    "start": 3.233,
+    "end": 3.803,
+    "speaker": "agent"
+  },
+  {
+    "word": "viewing",
+    "start": 3.803,
+    "end": 4.301,
+    "speaker": "agent"
+  },
+  {
+    "word": "walkthrough?",
+    "start": 4.301,
+    "end": 5.156,
+    "speaker": "agent"
+  },
+  {
+    "word": "Hi!",
+    "start": 5.276,
+    "end": 5.448,
+    "speaker": "caller"
+  },
+  {
+    "word": "Yes,",
+    "start": 5.448,
+    "end": 5.677,
+    "speaker": "caller"
+  },
+  {
+    "word": "I",
+    "start": 5.677,
+    "end": 5.797,
+    "speaker": "caller"
+  },
+  {
+    "word": "need",
+    "start": 5.797,
+    "end": 6.026,
+    "speaker": "caller"
+  },
+  {
+    "word": "Express",
+    "start": 6.026,
+    "end": 6.427,
+    "speaker": "caller"
+  },
+  {
+    "word": "Quick",
+    "start": 6.427,
+    "end": 6.713,
+    "speaker": "caller"
+  },
+  {
+    "word": "Check",
+    "start": 6.713,
+    "end": 7.0,
+    "speaker": "caller"
+  },
+  {
+    "word": "&",
+    "start": 7.0,
+    "end": 7.12,
+    "speaker": "caller"
+  },
+  {
+    "word": "Maintenance",
+    "start": 7.12,
+    "end": 7.75,
+    "speaker": "caller"
+  },
+  {
+    "word": "around",
+    "start": 7.75,
+    "end": 8.094,
+    "speaker": "caller"
+  },
+  {
+    "word": "friday.",
+    "start": 8.094,
+    "end": 8.369,
+    "speaker": "caller"
+  },
+  {
+    "word": "It",
+    "start": 8.489,
+    "end": 8.691,
+    "speaker": "agent"
+  },
+  {
+    "word": "is",
+    "start": 8.691,
+    "end": 8.894,
+    "speaker": "agent"
+  },
+  {
+    "word": "a",
+    "start": 8.894,
+    "end": 9.014,
+    "speaker": "agent"
+  },
+  {
+    "word": "pleasure,",
+    "start": 9.014,
+    "end": 9.924,
+    "speaker": "agent"
+  },
+  {
+    "word": "Meera.",
+    "start": 9.924,
+    "end": 10.531,
+    "speaker": "agent"
+  },
+  {
+    "word": "We",
+    "start": 10.531,
+    "end": 10.733,
+    "speaker": "agent"
+  },
+  {
+    "word": "have",
+    "start": 10.733,
+    "end": 11.138,
+    "speaker": "agent"
+  },
+  {
+    "word": "an",
+    "start": 11.138,
+    "end": 11.34,
+    "speaker": "agent"
+  },
+  {
+    "word": "open",
+    "start": 11.34,
+    "end": 11.745,
+    "speaker": "agent"
+  },
+  {
+    "word": "slot",
+    "start": 11.745,
+    "end": 12.15,
+    "speaker": "agent"
+  },
+  {
+    "word": "with",
+    "start": 12.15,
+    "end": 12.554,
+    "speaker": "agent"
+  },
+  {
+    "word": "Liam",
+    "start": 12.554,
+    "end": 12.959,
+    "speaker": "agent"
+  },
+  {
+    "word": "on",
+    "start": 12.959,
+    "end": 13.161,
+    "speaker": "agent"
+  },
+  {
+    "word": "Friday",
+    "start": 13.161,
+    "end": 13.768,
+    "speaker": "agent"
+  },
+  {
+    "word": "at",
+    "start": 13.768,
+    "end": 13.971,
+    "speaker": "agent"
+  },
+  {
+    "word": "03:30",
+    "start": 13.971,
+    "end": 14.476,
+    "speaker": "agent"
+  },
+  {
+    "word": "PM.",
+    "start": 14.476,
+    "end": 14.761,
+    "speaker": "agent"
+  },
+  {
+    "word": "That",
+    "start": 14.881,
+    "end": 15.06,
+    "speaker": "caller"
+  },
+  {
+    "word": "works",
+    "start": 15.06,
+    "end": 15.283,
+    "speaker": "caller"
+  },
+  {
+    "word": "wonderfully",
+    "start": 15.283,
+    "end": 15.774,
+    "speaker": "caller"
+  },
+  {
+    "word": "with",
+    "start": 15.774,
+    "end": 15.953,
+    "speaker": "caller"
+  },
+  {
+    "word": "my",
+    "start": 15.953,
+    "end": 16.073,
+    "speaker": "caller"
+  },
+  {
+    "word": "commute.",
+    "start": 16.073,
+    "end": 16.431,
+    "speaker": "caller"
+  },
+  {
+    "word": "How",
+    "start": 16.431,
+    "end": 16.565,
+    "speaker": "caller"
+  },
+  {
+    "word": "long",
+    "start": 16.565,
+    "end": 16.743,
+    "speaker": "caller"
+  },
+  {
+    "word": "does",
+    "start": 16.743,
+    "end": 16.922,
+    "speaker": "caller"
+  },
+  {
+    "word": "the",
+    "start": 16.922,
+    "end": 17.056,
+    "speaker": "caller"
+  },
+  {
+    "word": "appointment",
+    "start": 17.056,
+    "end": 17.547,
+    "speaker": "caller"
+  },
+  {
+    "word": "take?",
+    "start": 17.547,
+    "end": 17.74,
+    "speaker": "caller"
+  },
+  {
+    "word": "Our",
+    "start": 17.86,
+    "end": 18.15,
+    "speaker": "agent"
+  },
+  {
+    "word": "standard",
+    "start": 18.15,
+    "end": 18.923,
+    "speaker": "agent"
+  },
+  {
+    "word": "fee",
+    "start": 18.923,
+    "end": 19.214,
+    "speaker": "agent"
+  },
+  {
+    "word": "is",
+    "start": 19.214,
+    "end": 19.407,
+    "speaker": "agent"
+  },
+  {
+    "word": "\u20b9800",
+    "start": 19.407,
+    "end": 19.794,
+    "speaker": "agent"
+  },
+  {
+    "word": "for",
+    "start": 19.794,
+    "end": 20.084,
+    "speaker": "agent"
+  },
+  {
+    "word": "complete",
+    "start": 20.084,
+    "end": 20.857,
+    "speaker": "agent"
+  },
+  {
+    "word": "service",
+    "start": 20.857,
+    "end": 21.534,
+    "speaker": "agent"
+  },
+  {
+    "word": "with",
+    "start": 21.534,
+    "end": 21.921,
+    "speaker": "agent"
+  },
+  {
+    "word": "Liam.",
+    "start": 21.921,
+    "end": 22.404,
+    "speaker": "agent"
+  },
+  {
+    "word": "Please",
+    "start": 22.524,
+    "end": 22.842,
+    "speaker": "caller"
+  },
+  {
+    "word": "lock",
+    "start": 22.842,
+    "end": 23.053,
+    "speaker": "caller"
+  },
+  {
+    "word": "that",
+    "start": 23.053,
+    "end": 23.265,
+    "speaker": "caller"
+  },
+  {
+    "word": "in",
+    "start": 23.265,
+    "end": 23.385,
+    "speaker": "caller"
+  },
+  {
+    "word": "for",
+    "start": 23.385,
+    "end": 23.544,
+    "speaker": "caller"
+  },
+  {
+    "word": "Meera.",
+    "start": 23.544,
+    "end": 23.847,
+    "speaker": "caller"
+  },
+  {
+    "word": "Your",
+    "start": 23.967,
+    "end": 24.274,
+    "speaker": "agent"
+  },
+  {
+    "word": "booking",
+    "start": 24.274,
+    "end": 24.812,
+    "speaker": "agent"
+  },
+  {
+    "word": "is",
+    "start": 24.812,
+    "end": 24.966,
+    "speaker": "agent"
+  },
+  {
+    "word": "confirmed!",
+    "start": 24.966,
+    "end": 25.734,
+    "speaker": "agent"
+  },
+  {
+    "word": "Property",
+    "start": 25.734,
+    "end": 26.349,
+    "speaker": "agent"
+  },
+  {
+    "word": "tour",
+    "start": 26.349,
+    "end": 26.656,
+    "speaker": "agent"
+  },
+  {
+    "word": "scheduled",
+    "start": 26.656,
+    "end": 27.348,
+    "speaker": "agent"
+  },
+  {
+    "word": "with",
+    "start": 27.348,
+    "end": 27.655,
+    "speaker": "agent"
+  },
+  {
+    "word": "private",
+    "start": 27.655,
+    "end": 28.193,
+    "speaker": "agent"
+  },
+  {
+    "word": "viewing",
+    "start": 28.193,
+    "end": 28.731,
+    "speaker": "agent"
+  },
+  {
+    "word": "access.",
+    "start": 28.731,
+    "end": 29.269,
+    "speaker": "agent"
+  },
+  {
+    "word": "Electronic",
+    "start": 29.269,
+    "end": 30.037,
+    "speaker": "agent"
+  },
+  {
+    "word": "pass",
+    "start": 30.037,
+    "end": 30.345,
+    "speaker": "agent"
+  },
+  {
+    "word": "sent.",
+    "start": 30.345,
+    "end": 30.729,
+    "speaker": "agent"
+  },
+  {
+    "word": "Brilliant.",
+    "start": 30.849,
+    "end": 31.281,
+    "speaker": "caller"
+  },
+  {
+    "word": "Thank",
+    "start": 31.281,
+    "end": 31.497,
+    "speaker": "caller"
+  },
+  {
+    "word": "you",
+    "start": 31.497,
+    "end": 31.627,
+    "speaker": "caller"
+  },
+  {
+    "word": "so",
+    "start": 31.627,
+    "end": 31.747,
+    "speaker": "caller"
+  },
+  {
+    "word": "much",
+    "start": 31.747,
+    "end": 31.919,
+    "speaker": "caller"
+  },
+  {
+    "word": "for",
+    "start": 31.919,
+    "end": 32.049,
+    "speaker": "caller"
+  },
+  {
+    "word": "the",
+    "start": 32.049,
+    "end": 32.179,
+    "speaker": "caller"
+  },
+  {
+    "word": "quick",
+    "start": 32.179,
+    "end": 32.395,
+    "speaker": "caller"
+  },
+  {
+    "word": "help!",
+    "start": 32.395,
+    "end": 32.577,
+    "speaker": "caller"
+  }
+]
