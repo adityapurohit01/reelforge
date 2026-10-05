@@ -1,0 +1,64 @@
+product:
+  name: "Vocalis AI"
+  tagline: "Never miss a customer call again."
+  cta_url: "vocalis.ai"
+  cta_handle: "@vocalis.ai"
+  brand_colors:
+    primary: "#6366F1"
+    secondary: "#EC4899"
+    background: "#0F172A"
+    text: "#F8FAFC"
+    accent: "#10B981"
+
+pipeline:
+  dry_run: true
+  auto_publish: false
+  videos_per_day: 2
+  publish_time_windows:
+    - "10:30"
+    - "18:00"
+  timezone: "UTC"
+  exploration_floor: 0.30
+
+cooldowns:
+  vertical: 5
+  city: 6
+  scenario: 4
+  hook_style: 8
+  layout_palette: 6
+  palette_alone: 3
+  voice_pair: 4
+  agent_voice_max_in_5: 2
+  first_line_or_cta: 15
+
+similarity_thresholds:
+  script_cosine_max: 0.82
+  hook_cosine_max: 0.85
+  trigram_jaccard_max: 0.25
+  history_window: 50
+
+duration_bounds:
+  min_seconds: 20.0
+  max_seconds: 40.0
+  target_min_spoken: 22.0
+  target_max_spoken: 38.0
+
+qc_thresholds:
+  target_lufs: -14.0
+  lufs_tolerance: 1.5
+  max_true_peak_dbtp: -1.5
+  max_silence_duration_s: 1.2
+  max_wer: 0.15
+  max_freeze_duration_s: 1.5
+
+models:
+  llm_model: "llama3.1:latest"
+  llm_fallback: "llama3.2:3b"
+  embedding_model: "nomic-embed-text"
+  tts_engine: "kokoro"
+  whisper_model: "base"
+  whisper_device: "cpu"
+  whisper_compute_type: "int8"
+
+storage:
+  backend: "local"  # options: local, r2

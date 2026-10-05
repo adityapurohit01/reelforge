@@ -1,0 +1,47 @@
+# Environments and virtualenvs
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node / Remotion
+render/node_modules/
+render/.remotion/
+.remotion/
+render/build/
+render/out/
+node_modules/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+render/test_still.png
+
+# Secrets and local configurations
+.env
+*.local
+*.secret
+
+# SQLite Databases & logs
+*.db
+*.sqlite3
+*.log
+
+# Large binary assets & models (> 100MB exceeds GitHub push limit)
+assets/kokoro/*.onnx
+assets/kokoro/*.bin
+assets/kokoro/kokoro-v1.0.onnx
+assets/kokoro/voices-v1.0.bin
+
+# Test and coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local runs output artifacts
+runs/
+*.mp4
+*.wav

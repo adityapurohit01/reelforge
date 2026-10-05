@@ -1,0 +1,10 @@
+# Approved marketing claims for ReelForge
+# Any performance claim or guarantee not listed here will be flagged by claims_lint.py.
+# Left empty by default to prevent unauthorized marketing claims.
+
+approved_claims: []
+
+forbidden_patterns:
+  - '(?i)\b(?:100%|guaranteed|never miss|zero wait|flawless|always answers)\b'
+  - '(?i)\b(?:beat all competitors|better than human|replaces all staff)\b'
+  - '(?i)\b(?:medical advice|legal advice|prescribe|diagnose|cure)\b'

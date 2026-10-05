@@ -1,0 +1,18 @@
+[
+  {
+    "model": "llama3.2:3b",
+    "n_trials": 3,
+    "avg_tokens_per_sec": 13.04,
+    "avg_latency_s": 78.28,
+    "valid_json_percent": 0.0,
+    "peak_ram_mb": 52.6
+  },
+  {
+    "model": "llama3.1:latest",
+    "n_trials": 3,
+    "avg_tokens_per_sec": 5.98,
+    "avg_latency_s": 39.46,
+    "valid_json_percent": 0.0,
+    "peak_ram_mb": 411.9
+  }
+]

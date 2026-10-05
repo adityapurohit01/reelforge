@@ -1,0 +1,21 @@
+{
+  "name": "reelforge-render",
+  "version": "1.0.0",
+  "description": "Remotion video renderer for ReelForge",
+  "scripts": {
+    "build": "remotion bundle src/index.ts",
+    "render": "remotion render src/index.ts ReelVideo out.mp4",
+    "still": "remotion still src/index.ts ReelVideo out.png"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.140",
+    "lucide-react": "^0.378.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.140"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.4.0"
+  }
+}
