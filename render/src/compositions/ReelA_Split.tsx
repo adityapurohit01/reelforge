@@ -6,6 +6,7 @@ import { ActionChips, ActionEvent } from "../components/ActionChips";
 import { NotificationCard, OwnerNotificationData } from "../components/NotificationCard";
 import { HookCard } from "../components/HookCard";
 import { EndCard } from "../components/EndCard";
+import { TalkingAvatar } from "../components/TalkingAvatar";
 import { ColorPalette } from "../themes/palettes";
 import { Bot, User, PhoneCall, Sparkles, Radio, CheckCircle2 } from "lucide-react";
 
@@ -196,36 +197,29 @@ export const ReelA_Split: React.FC<ReelProps> = ({
           </div>
         </div>
 
-        {/* Central Robot Avatar with Pulsing Waves */}
-        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 24, margin: "12px 0" }}>
-          <div
-            style={{
-              width: 100,
-              height: 100,
-              borderRadius: "50%",
-              backgroundColor: "rgba(99, 102, 241, 0.2)",
-              border: `3px solid ${palette.primary}`,
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              transform: `scale(${agentPulse})`,
-              boxShadow: isAgentSpeaking ? `0 0 30px ${palette.primary}` : "none",
-              transition: "transform 0.05s ease",
-            }}
-          >
-            <Bot size={54} color={palette.primary} />
-          </div>
+        {/* Central Photorealistic AI Talking Avatar */}
+        <div style={{ margin: "14px 0" }}>
+          <TalkingAvatar
+            type="agent"
+            name="Anya"
+            role={`AI Receptionist • ${business.name}`}
+            isSpeaking={isAgentSpeaking}
+            amplitude={amp}
+            primaryColor={palette.primary}
+            accentColor={palette.accent}
+            imageSrc={staticFile("avatars/ai_avatar.jpg")}
+          />
+        </div>
 
-          {/* AI Equalizer Waveform */}
-          <div style={{ flex: 1 }}>
-            <Waveform
-              envelope={amplitude_envelope}
-              currentSpeaker={isAgentSpeaking ? "agent" : "none"}
-              agentColor={palette.agentWaveform}
-              callerColor={palette.callerWaveform}
-              barCount={28}
-            />
-          </div>
+        {/* AI Equalizer Waveform */}
+        <div style={{ margin: "6px 0" }}>
+          <Waveform
+            envelope={amplitude_envelope}
+            currentSpeaker={isAgentSpeaking ? "agent" : "none"}
+            agentColor={palette.agentWaveform}
+            callerColor={palette.callerWaveform}
+            barCount={36}
+          />
         </div>
 
         {/* Subtitle / Speech Display for Robot */}
@@ -324,36 +318,29 @@ export const ReelA_Split: React.FC<ReelProps> = ({
           </div>
         </div>
 
-        {/* Central Caller Avatar with Sound Ripples */}
-        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 24, margin: "12px 0" }}>
-          <div
-            style={{
-              width: 100,
-              height: 100,
-              borderRadius: "50%",
-              backgroundColor: "rgba(236, 72, 153, 0.2)",
-              border: `3px solid ${palette.callerWaveform}`,
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-              transform: `scale(${callerPulse})`,
-              boxShadow: isCallerSpeaking ? `0 0 30px ${palette.callerWaveform}` : "none",
-              transition: "transform 0.05s ease",
-            }}
-          >
-            <User size={54} color={palette.callerWaveform} />
-          </div>
+        {/* Central Photorealistic Caller Talking Avatar */}
+        <div style={{ margin: "14px 0" }}>
+          <TalkingAvatar
+            type="caller"
+            name="Customer"
+            role="Live Inbound Caller"
+            isSpeaking={isCallerSpeaking}
+            amplitude={amp}
+            primaryColor={palette.callerWaveform}
+            accentColor={palette.accent}
+            imageSrc={staticFile("avatars/client_avatar.jpg")}
+          />
+        </div>
 
-          {/* Caller Equalizer Waveform */}
-          <div style={{ flex: 1 }}>
-            <Waveform
-              envelope={amplitude_envelope}
-              currentSpeaker={isCallerSpeaking ? "caller" : "none"}
-              agentColor={palette.agentWaveform}
-              callerColor={palette.callerWaveform}
-              barCount={28}
-            />
-          </div>
+        {/* Caller Equalizer Waveform */}
+        <div style={{ margin: "6px 0" }}>
+          <Waveform
+            envelope={amplitude_envelope}
+            currentSpeaker={isCallerSpeaking ? "caller" : "none"}
+            agentColor={palette.agentWaveform}
+            callerColor={palette.callerWaveform}
+            barCount={36}
+          />
         </div>
 
         {/* Subtitle / Speech Display for Caller */}
