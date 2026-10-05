@@ -1,0 +1,23 @@
+{
+  "run_id": "run_c7acd496c4",
+  "seed": 656523,
+  "state": "AWAITING_APPROVAL",
+  "business": "Elevate Flow Services",
+  "vertical": "Plumbing & Leak Repair",
+  "city": "Hyderabad",
+  "layout": "ReelB-Phone",
+  "palette": "emerald_luxury",
+  "timings_seconds": {
+    "planner": 0.058,
+    "profile": 0.014,
+    "dialogue": 0.01,
+    "tts_and_mix": 11.571,
+    "alignment": 0.011,
+    "render": 65.138,
+    "qc_gates": 0.844,
+    "approval_dispatch": 0.005
+  },
+  "total_wall_clock_seconds": 77.65,
+  "video_path": "runs\\run_c7acd496c4\\run_c7acd496c4.mp4",
+  "cover_path": "runs\\run_c7acd496c4\\run_c7acd496c4_cover.jpg"
+}

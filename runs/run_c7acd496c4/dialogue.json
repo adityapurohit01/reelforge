@@ -1,0 +1,96 @@
+{
+  "hook_text": "Commercial RFP inquiry routed straight to founder",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Good afternoon. Welcome to Elevate Flow Services's executive line.",
+      "emotion": "polite",
+      "pause_after_ms": 300,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "caller",
+      "text": "Hello, my organization requires custom Express Quick Check & Maintenance across our regional facilities.",
+      "emotion": "formal",
+      "pause_after_ms": 320,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Welcome, Rohan. Our licensed plumber team routinely partners with commercial enterprises across Hyderabad.",
+      "emotion": "professional",
+      "pause_after_ms": 300,
+      "on_screen_event": "Created corporate lead intake file"
+    },
+    {
+      "speaker": "caller",
+      "text": "We have strict delivery timelines and need Priya to evaluate our technical specifications.",
+      "emotion": "business",
+      "pause_after_ms": 320,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Typically under twenty-four hours once our lead licensed plumber Priya inspects your specifications.",
+      "emotion": "focused",
+      "pause_after_ms": 300,
+      "on_screen_event": "Scheduled director callback"
+    },
+    {
+      "speaker": "caller",
+      "text": "Splendid. Please have someone contact me Thursday afternoon.",
+      "emotion": "inquiring",
+      "pause_after_ms": 280,
+      "on_screen_event": null
+    },
+    {
+      "speaker": "agent",
+      "text": "Registered! Plumbing service van routed with pipe diagnostic tools. A secure intake portal link has been dispatched to your device.",
+      "emotion": "confident",
+      "pause_after_ms": 340,
+      "on_screen_event": "Dispatched director calendar sync"
+    },
+    {
+      "speaker": "caller",
+      "text": "Thank you for the prompt coordination. Speak tomorrow.",
+      "emotion": "satisfied",
+      "pause_after_ms": 200,
+      "on_screen_event": null
+    }
+  ],
+  "events": [
+    {
+      "turn_index": 2,
+      "time_seconds": 0.0,
+      "type": "tool_call",
+      "text": "Opened B2B corporate lead file"
+    },
+    {
+      "turn_index": 4,
+      "time_seconds": 0.0,
+      "type": "tool_call",
+      "text": "Tagged high-value enterprise contract"
+    },
+    {
+      "turn_index": 6,
+      "time_seconds": 0.0,
+      "type": "owner_notification",
+      "text": "Director callback assigned to Priya"
+    }
+  ],
+  "owner_notification": {
+    "summary": "COMMERCIAL LEAD: Rohan requested custom bid for Express Quick Check & Maintenance.",
+    "customer_name": "Rohan",
+    "time_or_slot": "Scheduled Callback",
+    "service_requested": "Custom Enterprise Express Quick Check & Maintenance",
+    "next_step": "Priya to review specs and call prospect."
+  },
+  "cta_text": "Get an AI receptionist for your business at vocalis.ai",
+  "caption_seed": "Watch how Elevate Flow Services handles client calls effortlessly with AI.",
+  "hashtags_seed": [
+    "#AIReceptionist",
+    "#Plumbing&LeakRepair",
+    "#Hyderabad",
+    "#SmallBusinessAutomation"
+  ]
+}

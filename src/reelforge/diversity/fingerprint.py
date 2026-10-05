@@ -1,5 +1,6 @@
 """Layer 3 Semantic de-duplication gate and fingerprint storage."""
 import json
+import logging
 import pickle
 import re
 from typing import Any, Dict, List, Optional, Set, Tuple
@@ -9,6 +10,8 @@ from sqlmodel import Session, select
 
 from reelforge.config import ReelForgeConfig, load_config
 from reelforge.models import Fingerprint
+
+logger = logging.getLogger(__name__)
 
 
 def extract_words(text: str) -> List[str]:

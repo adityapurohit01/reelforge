@@ -1,0 +1,20 @@
+[
+  {
+    "turn_index": 2,
+    "time_seconds": 7.8,
+    "type": "tool_call",
+    "text": "Opened B2B corporate lead file"
+  },
+  {
+    "turn_index": 4,
+    "time_seconds": 16.28,
+    "type": "tool_call",
+    "text": "Tagged high-value enterprise contract"
+  },
+  {
+    "turn_index": 6,
+    "time_seconds": 22.83,
+    "type": "owner_notification",
+    "text": "Director callback assigned to Priya"
+  }
+]
